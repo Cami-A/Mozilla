@@ -1,0 +1,35 @@
+div{
+    width: 600px;
+    background-color: #FF9500;
+    padding: 0px 20px 20px 20px;
+    margin: auto;
+    border: 5px solid black;
+}
+img{
+    width: 300px;
+    margin: auto;
+    display: block;
+}
+
+h1{
+    font-family: "Open Sans", sans-serif;
+    color: #00539F;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    font-family: "Open Sans", sans-serif;
+    padding: 0px 0px 0px 10px;
+}
+li{
+    font-family:  "Open Sans", sans-serif;
+}
+
+body{
+    background-color:#00539F; 
+    
+}
+
+
+
+
